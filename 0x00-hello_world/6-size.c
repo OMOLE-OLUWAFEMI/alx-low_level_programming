@@ -1,25 +1,16 @@
-#include <stdio.h>                                                                                               
-
-                                                                                                                 
-
+#include <stdio.h>     
 /**                                                                                                              
+ * main - print the string in the put function                                                       
  *
- *  * main - print the string in the put function                                                                   
- *
- *   *                                                                                                               
- *
- *    * Description: using the main function                                                                          
- *
- *     * this program points "programming is like building a multilingual puzzle                                       
- *
- *      * Return: 0                                                                                             
- *
- *       */                                                                                                              
+ * Description: using the main function
+ * this program points "programming is like building a multilingual puzzle   
+ * Return: 0  
+ */                                                                                                              
 int main(void)    
 { 
 	char c;
 	int i;
-	long li;
+	long 1i;
 	long long lli;
 	float f;
 
