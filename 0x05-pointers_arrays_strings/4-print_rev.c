@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
-*print_rev - Prints a string in reverse order
+*print_rev - Prints a string in reverse order putchar(10)
 *@s: String to reverse
 *Return: Nothing
 */
